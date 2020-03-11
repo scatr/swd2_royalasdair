@@ -1,1 +1,2 @@
 File used to record notes on the analysis. 
+we will write notes on everything we change in every script
